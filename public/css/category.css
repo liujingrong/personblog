@@ -1,0 +1,26 @@
+/* 
+* @Author: anchen
+* @Date:   2017-03-20 10:53:46
+* @Last Modified by:   anchen
+* @Last Modified time: 2017-03-24 19:08:19
+*/
+.category-list
+{
+    list-style-type: none;
+
+}
+.category-list li
+{
+    display: inline-block;
+    margin-right: 20px;
+}
+.category-list  li  a 
+{
+    text-decoration: none;
+    color:#999;
+}
+.category-list li  a:hover
+{
+    border-bottom: 2px solid skyblue;
+    color:#000;
+}

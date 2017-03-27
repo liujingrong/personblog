@@ -1,0 +1,58 @@
+/* 
+* @Author: anchen
+* @Date:   2017-03-19 22:21:30
+* @Last Modified by:   anchen
+* @Last Modified time: 2017-03-20 10:36:13
+*/
+.post-title-content
+{
+    text-align: center;
+    font-size: 29px;
+    font-weight: 300;
+    color: rgb(85, 85, 85);
+    margin-bottom: 0px;
+}
+.post-nav
+{
+    border-top:1px solid #999;
+    width:60%;
+    text-align: center;
+    margin:0 auto;
+}
+.post-nav-prev
+{
+    text-align: left;
+}
+.post-nav-next
+{
+    text-align: left;
+}
+.post-nav a
+{
+    text-decoration: none;
+    color:#999;
+}
+.post-nav a:hover
+{
+    color:#000;
+    border-bottom: 1px solid #87daff;
+}
+.reward
+{
+    text-align: center;
+    font-size: 40px;
+    cursor:pointer;
+    padding-top: 40px;
+}
+.paypalali
+{
+    display:inline-block;
+    padding-right: 30px;
+    display:none;
+}
+.paypalwechat
+{
+    display:inline-block;
+    padding-left:30px;
+    display:none;
+}
