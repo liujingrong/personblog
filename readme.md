@@ -1,3 +1,3 @@
 ### this is a person blog
 
-[ÔÀ³ØµÄ¸öÈË²©¿Í](http://yuechi.phpen.cn "ÔÀ³ØµÄ¸öÈË²©¿Í")
+[Joshuaçš„ä¸ªäººåšå®¢](http://joshua.phpen.cn "å²³æ± çš„ä¸ªäººåšå®¢")
